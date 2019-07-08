@@ -1,0 +1,11 @@
+C:\Users\Boris Ho\source\repos\Realty\HomesDAL\bin\Debug\HomesDAL.dll.config
+C:\Users\Boris Ho\source\repos\Realty\HomesDAL\bin\Debug\HomesDAL.dll
+C:\Users\Boris Ho\source\repos\Realty\HomesDAL\bin\Debug\HomesDAL.pdb
+C:\Users\Boris Ho\source\repos\Realty\HomesDAL\bin\Debug\EntityFramework.dll
+C:\Users\Boris Ho\source\repos\Realty\HomesDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Boris Ho\source\repos\Realty\HomesDAL\bin\Debug\EntityFramework.xml
+C:\Users\Boris Ho\source\repos\Realty\HomesDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Boris Ho\source\repos\Realty\HomesDAL\obj\Debug\HomesDAL.csprojResolveAssemblyReference.cache
+C:\Users\Boris Ho\source\repos\Realty\HomesDAL\obj\Debug\HomesDAL.csproj.CoreCompileInputs.cache
+C:\Users\Boris Ho\source\repos\Realty\HomesDAL\obj\Debug\HomesDAL.dll
+C:\Users\Boris Ho\source\repos\Realty\HomesDAL\obj\Debug\HomesDAL.pdb
